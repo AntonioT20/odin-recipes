@@ -4,5 +4,40 @@ body {
 
 .title,.para-title {
     font-weight: bold;
-    
+}
+
+.para-title {
+    background-color: rgb(194, 194, 194);
+}
+
+.para-title.sub {
+    font-style: italic;
+}
+
+.title,.opening {
+    text-align: center;
+}
+
+.title {
+    font-size: 75px;
+    line-height: 75%;
+}
+
+p.opening {
+    color: rgb(128, 128, 128, 3);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list {
+    background-color: yellow;
+    color: black;
+}
+
+p {
+    font-weight: bold;
 }
