@@ -20,6 +20,10 @@ body {
 
 .para-title.sub {
     font-style: italic;
+    text-align: center;
+    width: 25%;
+    margin: 8px auto;
+    padding: 8px;
 }
 
 .title,.opening {
